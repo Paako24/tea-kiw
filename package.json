@@ -1,6 +1,6 @@
 {
   "name": "tea-kiw",
-  "version": "1.1.4",
+  "version": "1.1.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Paako24/tea-kiw/issues"
   },
-  "homepage": "https://github.com/Paako24/tea-kiw#readme"
+  "homepage": "https://github.com/Paako24/tea-kiw#readme",
+  "dependencies": {
+    "tea-kiw": "^1.1.2"
+  }
 }
